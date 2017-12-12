@@ -1,0 +1,3 @@
+[submodule "providers/picsl"]
+	path = providers/picsl
+	url = https://github.com/pyushkevich/alfabis-provider-picsl
